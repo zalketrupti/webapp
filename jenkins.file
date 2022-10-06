@@ -33,7 +33,7 @@ pipeline {
 
             steps {
                 
-                    echo "This is mater branch"
+                    echo "This is test branch"
                 }
             
         }
